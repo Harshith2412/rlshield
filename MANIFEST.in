@@ -1,0 +1,13 @@
+include README.md
+include LICENSE
+include pyproject.toml
+include setup.py
+
+recursive-include rlshield *.py
+recursive-include rlshield *.typed
+
+exclude rlshield/tests/*
+exclude **/__pycache__/*
+exclude **/*.pyc
+exclude **/*.pyo
+exclude .github/*
