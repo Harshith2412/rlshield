@@ -809,3 +809,7 @@ If you use RLShield in academic work, please cite:
 
 *RLShield v0.1.0 —  March 2026.*  
 *93/93 tests passing — PPO · DQN · SAC · TD3 · DDPG · A2C · A3C · REINFORCE · TRPO · DreamerV3*
+
+## Security
+
+This project uses [Snyk](https://snyk.io/) to help identify and remediate vulnerabilities through the Snyk Secure Developer Program.
